@@ -67,12 +67,17 @@ const ContactSection = () => {
                   />
                 </div>
                 
+<<<<<<< HEAD
                 <Button
                   variant="hero"
                   className="w-full text-lg py-6 relative overflow-hidden group"
                 >
                   <span className="relative z-10">Send Message</span>
                   <span className="absolute inset-0 bg-primary-foreground opacity-0 group-hover:opacity-20 transition-opacity duration-300"></span>
+=======
+                <Button variant="hero" className="w-full text-lg py-6">
+                  Send Message
+>>>>>>> 46adf5f99af0e71b306c2226cfb32d09f9703111
                 </Button>
                 
                 <p className="text-xs text-center text-muted-foreground">
